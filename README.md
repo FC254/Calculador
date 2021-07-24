@@ -1,2 +1,2 @@
 # Calculador
-Fernando Castro
+Fernando Castro, Calculadora en Angular.
